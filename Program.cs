@@ -34,7 +34,7 @@ namespace Lesson_3_Activity
 
         }
 
-            // local methods
+            // local methods (the extra stuff that doesn't need to be seen)
 
             static void askForUserInput(List<double> list)
             {
