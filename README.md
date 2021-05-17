@@ -24,3 +24,4 @@ to initialise the project, and follow the prompts to use the calculator.
 ## Change log
 
 **26/02/2021** - first draft uploaded to github.
+**17/05/2021** - revised to use for loops, if/else statements, lists and methods
