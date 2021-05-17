@@ -19,9 +19,14 @@ to initialise the project, and follow the prompts to use the calculator.
 - double.Parse()
 - operators (+, *, etc)
 - comparative operators (<=, etc)
-- Math.Pow()
+- (new) methods
+- (new) for loops
+- (new) if/else statements
+- (new) lists
+
 
 ## Change log
 
 **26/02/2021** - first draft uploaded to github.
+
 **17/05/2021** - revised to use for loops, if/else statements, lists and methods
