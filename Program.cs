@@ -16,7 +16,7 @@ namespace Lesson_3_Activity
             // for someone else (or even myself!) reading my code.
 
             // I could structure it like
-                // ask for user input (create a list to hold these variables?)
+                // ask for user input (create a list to hold these variables? accessing the values inside by index seems clunky though)
                 // perform calculation (need to pass in a parameter from the previous step)
                 // return output to the user (parameters, and I could use an if/else statement here)
             // using a different method for each.
